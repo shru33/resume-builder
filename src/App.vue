@@ -100,12 +100,12 @@ export default {
 
         // Personal info (flat object)
         personal: {
-          name:     'Alex Rivera',
+          name:     'Shruti Hegde',
           title:    'Frontend Developer',
-          email:    'alex@example.com',
+          email:    'shruti@example.com',
           phone:    '+1 555 987 6543',
-          location: 'San Francisco, CA',
-          website:  'alexrivera.dev',
+          location: 'Bengaluru, Karnataka',
+          website:  '',
           summary:  'Enthusiastic developer with 3 years building responsive web apps. Passionate about clean code, accessibility, and creating delightful user experiences.',
         },
 
