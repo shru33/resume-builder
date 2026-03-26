@@ -24,7 +24,7 @@
         type="text"
         :value="localData.name"
         @input="update('name', $event.target.value)"
-        placeholder="e.g. Alex Rivera"
+        placeholder="e.g. Shruti Hegde"
       />
     </div>
 
